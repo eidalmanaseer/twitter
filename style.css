@@ -1,13 +1,13 @@
-
+/* start index */
 .box2 {padding-top: 50px;} 
 .log-in {border-radius:35%;}
 .one {padding-top: 50px;padding-left: 50px;font-size: 40px;}
 .tow {padding-top: 50px;}
 .ab {border-radius:50px;}
 .abc{background-color: #fff;}
-.box1{height: 86vh;background-color: #1da1f2}
+.box1{height: 90vh;background-image:url("images/twitter img.jpg")}
 .list{list-style: none;padding-top: 250px;padding-left:100px;font-size:20px;color: #fff;}
-.dawon{width:100%;background-color: red#ffffff; height: 60px;}
+.dawon{width:100%;background-color:#fff; height: 50px;}
 .list2 li{display:inline-block;position: relative;
     padding-left: 5px;font-size: 13px;padding-top: 15px;}
 .list2 li a{color:#d2d2d2;}
@@ -15,14 +15,52 @@
 
 /*end index*/
 
-.navbar {background-color:#fff!important; }
+/* start index2 */
+.navbar {background-color:#fff!important;}
 .lastpage2{font-size:20px;padding-left: 50px;}
 .lastpage2 li a{color:#66757f!important}
 .lastpage2 li a:hover{border-bottom: 5px solid #4ab3f4;color:#4ab3f4!important}
-.logo{padding-top: 15px;padding-left:15%}
+.logo{padding-top: 15px;padding-left:30%}
 .r1{background-color: red;height:100px;}
 .r2{background-color: rgb(68, 0, 255);height:100px;}
-.navbar .form-search{border-radius: 20px;padding-right: 70px;}
+.navbar .form-search{border-radius: 20px;padding-right: 70px;background-image: url("images/icons.png");background-repeat: no-repeat;background-position: right center}
 .navbar .button-tweet{border-radius: 20px;background-color:#4ab3f4;color: #fff;}
 .user{font-size: 40px;padding-right: 10px;}
 .b{background-color:#e6ecf0}
+
+.card-link2{float: right;}
+.card-link1{float: left;}
+.image-profil{border-radius: 50%;}
+.po{position: relative;left: 90px;font-size: 20px;}
+.card-one{margin-top:20px;}
+.card-tow{margin-top:20px;}
+.col-tow{margin-top: 20px}
+.fg{background-color:#e8f5fd} /* class 1 */
+.gh{padding-top: 60px;padding-left: 60px} /* class 2 */
+.find-button{background-color:#4ab3f4;color:#fff;position: relative;top: 15px;border-radius: 20px}/* class 3 */
+.input-search{border-radius:10px;position: relative;left:20px;width:90%;height: 40px;}
+.image2{border-radius: 50%}
+.col-three{margin-top: 20px}
+.header-bacground{background-color: #fff} /* class 4 */
+.mb{position: relative;top: 10px;font-size: 10px}/* class 5 */
+
+/* end index 2 */
+
+
+/* start index 3 */
+/*  .topbar{width:100%;height:150px;background-color: blue}*/
+.topbar{width:100%;height:180px;background-image: url("images/abc.jpg");background-repeat: no-repeat;background-position:center}*/
+
+.nav-dawon a{color:#66757f!important}
+.nav-dawon{height: 70px;}
+.nav-dawon a{font-size:15px;position: relative;left: 100px;}
+.img-index3{border-radius: 50%;position: relative;bottom:30px;left: 30px;;}
+.form-button{border-radius: 20px;color: #66757f;background-color: #fff!important;font-weight: bold;position: relative;right: 50px;}
+.col1-index3{margin-top: 45px;font-size: 30px;position: relative;right: 30px;font-weight: bold}
+.col2-index3{margin-top: 45px;}
+
+.list-index3{padding-left: 30px}
+.list-index3 :hover{border-bottom: 1px solid #4ab3f4;color:#4ab3f4!important}
+.btn1-col3-index3{position: relative;top: 240px;border-radius: 20px;font-weight: bold}
+.btn2-col3-index3{position: relative;top: 380px;border-radius: 20px;font-weight: bold}
+/* end index 3 */
